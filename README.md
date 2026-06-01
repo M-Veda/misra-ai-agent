@@ -28,7 +28,7 @@ to provide a complete end-to-end MISRA compliance workflow for embedded and safe
 
 # 🎥 Demo Video
 
-https://github.com/user-attachments/assets/495579cc-5fae-4b74-b2d5-e908d8c3799e
+https://github.com/user-attachments/assets/33ad2b70-7ce8-42da-aab3-2bb4f1bee93b
 
 ---
 
